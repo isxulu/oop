@@ -1,0 +1,7 @@
+1 cw analysis 5 algebra 5 ML 5 database 5 oop 5 NLP 5 CV 5 ads 5
+2 wxk analysis 5 algebra 5 ML 5 database 5 oop 5 ads 5
+3 hxm analysis 5 algebra 4 ML 4 NLP 5 CV 5
+4 gza analysis 5 algebra 5 ML 4 NLP 3
+5 xxh analysis 1 algebra 2 database 3 NLP 2 CV 2
+6 lzq analysis 5 algebra 5 database 5 oop 5 NLP 5 CV 5 ads 5 complex 5
+#
