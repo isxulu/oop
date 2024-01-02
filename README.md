@@ -1,1 +1,1 @@
-ZJU oop course assginment
+ZJU Object-Oriented Programming (OOP) course assignments.
